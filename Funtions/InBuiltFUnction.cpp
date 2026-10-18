@@ -8,7 +8,9 @@ int main(){
     // cout<<sqrt(3)<<endl;
     // cout<<cbrt(10)<<endl;
     // cout<<abs(-5)<<endl; //mod
-    cout<<sqrt(-6)<<endl;
+    // cout<<sqrt(-6)<<endl;
+    // cout<<cbrt(10)<<endl;
+    cout<<abs(-5)<<endl;
 }
 
 //     int max2(int a, int b, int c){
